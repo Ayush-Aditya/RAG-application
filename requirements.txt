@@ -6,3 +6,8 @@ Google-generativeai
 Sentence-transformers
 PyPDF==4.0.1
 pyarrow==12.0.0
+beautifulsoup4==4.12.3
+Pillow==10.3.0
+protobuf==3.20.3
+Requests==2.32.3
+PyMuPDF==1.23.3
