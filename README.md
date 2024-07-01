@@ -15,7 +15,8 @@ Working:-
 
 
 
-  2. The rag application is built using pathway (Python ETL framework for stream processing, real-time analytics, RAG, and LLM pipelines)[(present in app.py)]
+  2. The rag application is built using pathway (Python ETL framework for stream processing, real-time analytics, RAG, and LLM pipelines).
+   [(present in app.py)]
      It is capable of gathering context from a local data source and passing it to an LLM to generate responses. In our case, we can ask it to summarize the paper or retrieve some information 
       from the papers.
 
@@ -30,9 +31,9 @@ Points to remember:-
 -to use docker and pathway please refer to the official documentation
 
 Here are some links that might help :-
-https://pathway.com/developers/user-guide/deployment/docker-deployment/#using-the-pathway-image
-https://pathway.com/
-https://docs.docker.com/manuals/
+-https://pathway.com/developers/user-guide/deployment/docker-deployment/#using-the-pathway-image
+-https://pathway.com/
+-https://docs.docker.com/manuals/
 
 End Note:
 I would like  to thank Pathway and the mentors there for giving us knowledge about RAG, LLM, word embeddings and prompt engineering through their various initiatives like live tutorials, learning resources and various other means, and for providing help in building this application.
