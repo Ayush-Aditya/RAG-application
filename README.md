@@ -17,8 +17,8 @@ Working:-
 
   2. The rag application is built using pathway (Python ETL framework for stream processing, real-time analytics, RAG, and LLM pipelines).
    [(present in app.py)]
-     It is capable of gathering context from a local data source and passing it to an LLM to generate responses. In our case, we can ask it to summarize the paper or retrieve some information 
-      from the papers.
+     It is capable of gathering context from a local data source and passing it to an LLM to generate responses. In our case, we can ask it to summarize the paper or retrieve some information  from the papers. The storage folder in the repo is to highlight this functionality, that the papers will be present in the storage for the application to function.  Please provide some logic to convert the pdf into the suitable file format and structure the code uses.
+     
 
 
 3. The final component of the system was  to build a Streamlit UI for running various scripts and apply some pre-built contexts and commands to summarization and question answering, integrating the whole logic of all the components. Unfortunately, due to time constraints and other reasons, I am unable to complete the UI for the application now but I will surely update the repo with the UI in the future.
@@ -32,7 +32,9 @@ Points to remember:-
 
 Here are some links that might help :-
 -https://pathway.com/developers/user-guide/deployment/docker-deployment/#using-the-pathway-image
+
 -https://pathway.com/
+
 -https://docs.docker.com/manuals/
 
 End Note:
