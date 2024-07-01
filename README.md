@@ -1,6 +1,35 @@
 # RAG-application
 This repository contains code for a rag application that can be used for summarization and information retrieval from research papers.  
 
+End User
+
+Researchers and Academics: Individuals who need to quickly grasp the essence of numerous research papers without reading them in full.
+Students: Those who need to understand and answer questions about specific topics in their studies.
+Industry Professionals: Professionals who need to stay updated with the latest research and advancements in their field.
+Librarians and Information Specialists: People responsible for managing and disseminating research information.
+General Public: Individuals with a keen interest in specific research areas.
+
+
+Industry Impact
+
+
+Increased Efficiency: By summarizing research papers, your application can significantly reduce the time researchers and professionals spend on literature review, allowing them to focus more on their actual research and work.
+Enhanced Knowledge Dissemination: It helps in spreading advanced research knowledge more widely and quickly, enabling faster implementation of new findings.
+Educational Advancement: Supports educational institutions by providing a tool that helps students and educators easily access and understand complex research materials.
+Innovation Acceleration: Facilitates quicker access to relevant information, which can accelerate innovation and development in various fields.
+Interdisciplinary Collaboration: Makes it easier for experts from different fields to understand each other's work, fostering interdisciplinary research and collaboration.
+
+Business Value
+
+
+Cost Savings: Reduces the time and effort required for extensive literature reviews, leading to cost savings for research institutions and companies.
+Competitive Advantage: Organizations can stay ahead of the competition by quickly accessing the latest research and developments in their field.
+Improved Decision Making: Provides valuable insights and answers to specific questions, aiding in more informed decision-making processes.
+Scalability: The application can handle a vast amount of research papers, making it scalable for large organizations and institutions.
+Revenue Generation: Potential to monetize the application through subscription models, pay-per-use, or by offering it as a premium service.
+
+
+
 Working:-
 1. The data.py file is responsible for searching research papers by author name, title, and date in the arXiv archive. 
 
@@ -21,7 +50,7 @@ Working:-
      
 
 
-3. The final component of the system was  to build a Streamlit UI for running various scripts and apply some pre-built contexts and commands to summarization and question answering, integrating the whole logic of all the components. Unfortunately, due to time constraints and other reasons, I am unable to complete the UI for the application now but I will surely update the repo with the UI in the future.
+3. The final component of the system was  to build a Streamlit UI for running various scripts and apply some pre-built contexts and commands for summarization and question answering, integrating the whole logic of all the components. Unfortunately, due to time constraints and other reasons, I am unable to complete the UI for the application now but I will surely update the repo with the UI in the future.
 
 
 
