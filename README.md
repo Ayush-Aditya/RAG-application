@@ -9,12 +9,14 @@ Working:-
 
 - the provided code searches the archive and downloads the research paper in a specific location which serves as the data-source for the rag application to generate context.
 ![Screenshot 2024-07-01 193223](https://github.com/Ayush-Aditya/RAG-application/assets/162690292/25d19fab-c930-4497-b701-f323db75039b)
+
+
 ![Screenshot 2024-07-01 193237](https://github.com/Ayush-Aditya/RAG-application/assets/162690292/4381f547-82a3-4ad8-8815-fa3aeac63703)
 
 
 
   2. The rag application is built using pathway (Python ETL framework for stream processing, real-time analytics, RAG, and LLM pipelines)[(present in app.py)]
-     It is capable of gathering context from a local data source and passing it to an LLM to generate responses. In our case, we can ask it to summarize the paper or retrieve some 
+     It is capable of gathering context from a local data source and passing it to an LLM to generate responses. In our case, we can ask it to summarize the paper or retrieve some information 
       from the papers.
 
 
